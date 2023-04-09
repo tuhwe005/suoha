@@ -5,3 +5,12 @@
 ```
 bash <(wget -qO- https://raw.githubusercontent.com/fscarmen/argox/main/argox.sh)
 ```
+```
+bash <(wget -qO- https://raw.githubusercontent.com/tuhwe005/suoha/main/suoha.sh)
+```
+```
+wget https://www.baipiao.eu.org/suoha.sh -O suoha.sh && bash suoha.sh
+```
+```
+wget https://raw.githubusercontent.com/tuhwe005/suoha/main/suoha.sh -O suoha.sh && bash suoha.sh
+```
