@@ -11,4 +11,4 @@ chmod +777 ip.txt
 chmod +777 iptestport
 
 # Run censys.sh script
-./censys.sh
+sudo ./censys.sh
