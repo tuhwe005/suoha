@@ -3,6 +3,7 @@
 # Download files
 wget -q https://raw.githubusercontent.com/tuhwe005/suoha/main/censys.sh
 wget -q https://raw.githubusercontent.com/tuhwe005/suoha/main/ip.txt
+wget -q https://raw.githubusercontent.com/tuhwe005/suoha/main/iptestport
 
 # Set execute permission
 chmod +777 asscan.sh
